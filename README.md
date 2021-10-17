@@ -1,7 +1,11 @@
 ### Hi there ✌
 
 I'm Agostino.
+
+
 💻 Junior Web Developer
+
+
 🎨 UI/UX Designer.
 
 Frontend side I use the latest technologies such as HTML5, CSS3 and ES6 using Angular
