@@ -2,9 +2,7 @@
 
 I'm Agostino.
 
-
 💻 Junior Web Developer
-
 
 🎨 UI/UX Designer.
 
