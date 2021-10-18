@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agostino!</h1>
 <p>Junior Web Developer & UI/UX Designer.</p>
-<p>Frontend side i use the latest technologies such as HTML5, CSS3, ES6 and TYPESCRIPT through the Angular framework.</p>
+<p>Front-end side i use the latest technologies such as HTML5, CSS3, ES6 and TYPESCRIPT through the Angular framework.</p>
 
 <br>
 
