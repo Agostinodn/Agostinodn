@@ -1,27 +1,66 @@
-# Hi there, I'm Agostino 👋🏻
+<h1 align="center">Hi 👋, I'm Agostino!</h1>
+<p>💻 Junior Web Developer.</p>
+<p>🎨 UI/UX Designer.</p>
+<p>Frontend side i use the latest technologies such as HTML5, CSS3 and ES6 and TYPESCRIPT through the Angular framework.</p>
 
-💻 Junior Web Developer.
+<h3 align="left">Connect with me:</h3>
 
-🎨 UI/UX Designer.
+<p align="left">
+<a href="https://linkedin.com/in/agostino-di-nuzzo-b23074193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agostino-di-nuzzo-b23074193/" height="30" width="40" /></a>
+</p>
 
-Frontend side i use the latest technologies such as HTML5, CSS3 and ES6 and TYPESCRIPT through the Angular framework.
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> 
+  
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://sass-lang.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a> 
+  
+  <a href="https://angular.io" target="_blank"> 
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+  </a>  
+  
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.photoshop.com/en" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+  </a> 
+
+</p>
 
 
-## Skills
-
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
-
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
-
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="max-width: 100%;"></a>
-
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"></a>
-
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4f9985e75ef6d08199712ad2b1f822e5534fe876c52b010026c04a1714fa3d59/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e67756c61726a732f616e67756c61726a732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/4f9985e75ef6d08199712ad2b1f822e5534fe876c52b010026c04a1714fa3d59/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e67756c61726a732f616e67756c61726a732d6f726967696e616c2e737667" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width: 100%;"></a>
-
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agostinodn&label=Profile%20views&color=0e75b6&style=flat" alt="agostinodn" /> </p>
 <!--
 **Agostinodn/Agostinodn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
