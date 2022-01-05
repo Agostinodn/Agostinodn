@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agostino!</h1>
-<p>Junior Web Developer & UI/UX Designer.</p>
-<p>Front-end side i use the latest technologies such as HTML5, CSS3, ES6 and TYPESCRIPT through the Angular framework.</p>
+<p align="center">Junior Front-end Web Developer </p>
 
 <br>
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/agostino-di-nuzzo-b23074193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agostino-di-nuzzo-b23074193/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Skills 💻 ✏️</h3>
+<h3 align="left">Skills 💻</h3>
 
 <p align="left"> 
   
@@ -59,6 +53,10 @@
 
 </p>
 
+<h3 align="left">Connect 📲</h3>
+<p align="left">
+<a href="https://linkedin.com/in/agostino-di-nuzzo-b23074193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agostino-di-nuzzo-b23074193/" height="30" width="40" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agostinodn&label=Profile%20views&color=0e75b6&style=flat" alt="agostinodn" /> </p>
 <!--
