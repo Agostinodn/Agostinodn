@@ -32,7 +32,7 @@
   </a>  
   
    <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png" alt="react" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" height="40"/> 
   </a>  
   
   <a href="https://git-scm.com/" target="_blank"> 
