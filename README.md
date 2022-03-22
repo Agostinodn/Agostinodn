@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agostino!</h1>
-<p align="center">Junior Front-end Web Developer </p>
+<p align="center">Front-end Web Developer </p>
 
 <br>
 
